@@ -1,0 +1,8280 @@
+[{
+    "id": 15438364,
+    "sq_meters": 160,
+    "price": 222000,
+    "longitude": 22.433197,
+    "latitude": 38.8993,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn":null 
+},
+            
+{
+    "id": 15438304,
+    "sq_meters": 101,
+    "price": 86000,
+    "longitude": 22.429989,
+    "latitude": 38.903851,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14837099,
+    "sq_meters": 102,
+    "price": 110000,
+    "longitude": 22.439939,
+    "latitude": 38.894753,
+    "rooms": 3,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+    
+{
+    "id": 15054089,
+    "sq_meters": 212,
+    "price": 800000,
+    "longitude": 22.437178,
+    "latitude": 38.900974,
+    "rooms": 0,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1954,
+    "renovatedIn": null 
+},
+    
+{
+    "id": 14413571,
+    "sq_meters": 70,
+    "price": 47000,
+    "longitude": 22.425779,
+    "latitude": 38.892971,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15081806,
+    "sq_meters": 105,
+    "price": 90000,
+    "longitude": 22.437635,
+    "latitude": 38.899837,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 15377283,
+    "sq_meters": 150,
+    "price": 49000,
+    "longitude": 22.434036,
+    "latitude": 38.901245,
+    "rooms": 0,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14573886,
+    "sq_meters": 95,
+    "price": 37000,
+    "longitude": 22.431885,
+    "latitude": 38.907001,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15069494,
+    "sq_meters": 110,
+    "price": 140000,
+    "longitude": 22.415173,
+    "latitude": 38.887119,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14067168,
+    "sq_meters": 47,
+    "price": 35000,
+    "longitude": 22.434294,
+    "latitude": 38.900112,
+    "rooms": 1,
+    "floor": 6,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 13660388,
+    "sq_meters": 82,
+    "price": 60000,
+    "longitude": 22.434294,
+    "latitude": 38.900043,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14909550,
+    "sq_meters": 40,
+    "price": 34000,
+    "longitude": 22.43395,
+    "latitude": 38.900513,
+    "rooms": 1,
+    "floor": 6,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15117596,
+    "sq_meters": 95,
+    "price": 49000,
+    "longitude": 22.428547,
+    "latitude": 38.894474,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15275121,
+    "sq_meters": 70,
+    "price": 50000,
+    "longitude": 22.431189,
+    "latitude": 38.904414,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15042721,
+    "sq_meters": 39,
+    "price": 34000,
+    "longitude": 22.430767,
+    "latitude": 38.888145,
+    "rooms": 1,
+    "floor": 6,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+}, 
+            
+{
+    "id": 15473757,
+    "sq_meters": 80,
+    "price": 80000,
+    "longitude": 22.438509,
+    "latitude": 38.898529,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 6920832,
+    "sq_meters": 100,
+    "price": 42000,
+    "longitude": 22.438219,
+    "latitude": 38.90213,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 11375079,
+    "sq_meters": 65,
+    "price": 25000,
+    "longitude": 22.43729,
+    "latitude": 38.900681,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1989,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13343027,
+    "sq_meters": 70,
+    "price": 29000,
+    "longitude": 22.489,
+    "latitude": 38.902458,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1963,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13014039,
+    "sq_meters": 72,
+    "price": 35000,
+    "longitude": 22.429371,
+    "latitude": 38.903568,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14782993,
+    "sq_meters": 400,
+    "price": 105000,
+    "longitude": 22.479971,
+    "latitude": 38.835361,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1993,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15571916,
+    "sq_meters": 99,
+    "price": 55000,
+    "longitude": 22.436512,
+    "latitude": 38.902409,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1984,
+    "renovatedIn": 2014
+},
+            
+{
+    "id": 14208307,
+    "sq_meters": 58,
+    "price": 68000,
+    "longitude": 22.441628,
+    "latitude": 38.897385,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 14208243,
+    "sq_meters": 89,
+    "price": 99000,
+    "longitude": 22.441481,
+    "latitude": 38.897301,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 14208295,
+    "sq_meters": 88,
+    "price": 95000,
+    "longitude": 22.441481,
+    "latitude": 38.897301,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 14130745,
+    "sq_meters": 58,
+    "price": 68000,
+    "longitude": 22.441628,
+    "latitude": 38.897385,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels":1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+    
+{
+    "id": 15137450,
+    "sq_meters": 89,
+    "price": 105000,
+    "longitude": 22.441628,
+    "latitude": 38.897385,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 8,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 15137520,
+    "sq_meters": 95,
+    "price": 108000,
+    "longitude": 22.441628,
+    "latitude": 38.897385,
+    "rooms": 2,
+    "floor": 4,
+    "totalFloors": 8,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15197317,
+    "sq_meters": 82,
+    "price": 148000,
+    "longitude": 22.43553,
+    "latitude": 38.901299,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 14743935,
+    "sq_meters": 270,
+    "price": 240000,
+    "longitude": 22.432133,
+    "latitude": 38.889622,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2004,
+    "renovatedIn": null
+},
+
+{
+    "id": 14148159,
+    "sq_meters": 148,
+    "price": 220000,
+    "longitude": 22.428968,
+    "latitude": 38.900612,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 13981276,
+    "sq_meters": 85,
+    "price": 110000,
+    "longitude": 22.428532,
+    "latitude": 38.893284,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1992,
+    "renovatedIn": 2000
+},
+
+{
+    "id": 14008741,
+    "sq_meters": 59,
+    "price": 66000,
+    "longitude": 22.440176,
+    "latitude": 38.899933,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14032450,
+    "sq_meters": 89,
+    "price": 95000,
+    "longitude": 22.437202,
+    "latitude": 38.898022,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14008941,
+    "sq_meters": 58,
+    "price": 68000,
+    "longitude": 22.437689,
+    "latitude": 38.897011,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14007179,
+    "sq_meters": 54,
+    "price": 62000,
+    "longitude": 22.43829,
+    "latitude": 38.899418,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9203092,
+    "sq_meters": 123,
+    "price": 150000,
+    "longitude": 22.4263,
+    "latitude": 38.910435,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13057083,
+    "sq_meters": 68,
+    "price": 50000,
+    "longitude": 22.428699,
+    "latitude": 38.893379,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": 2012
+},
+            
+{
+    "id": 12271739,
+    "sq_meters": 73,
+    "price": 52000,
+    "longitude": 22.433187,
+    "latitude": 38.904995,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13051267,
+    "sq_meters": 280,
+    "price": 980000,
+    "longitude": 22.430304,
+    "latitude": 38.901733,
+    "rooms": 0,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1930,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15169665,
+    "sq_meters": 110,
+    "price": 140000,
+    "longitude": 22.433588,
+    "latitude": 38.888409,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14705481,
+    "sq_meters": 460,
+    "price": 700000,
+    "longitude": 22.424562,
+    "latitude": 38.920757,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1998,
+    "renovatedIn": null
+},
+
+{
+    "id": 15267786,
+    "sq_meters": 125,
+    "price": 48000,
+    "longitude": 22.430975,
+    "latitude": 38.90683,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1960,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15307026,
+    "sq_meters": 520,
+    "price": 390000,
+    "longitude": 22.387505,
+    "latitude": 38.852581,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2001,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14826446,
+    "sq_meters": 33,
+    "price": 36000,
+    "longitude": 22.43936,
+    "latitude": 38.893353,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15026298,
+    "sq_meters": 142,
+    "price": 70000,
+    "longitude": 22.430801,
+    "latitude": 38.904709,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15370430,
+    "sq_meters": 58,
+    "price": 130000,
+    "longitude": 22.436579,
+    "latitude": 38.903515,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9997980,
+    "sq_meters": 136,
+    "price": 27000,
+    "longitude": 22.480158,
+    "latitude": 38.850986,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13285087,
+    "sq_meters": 72,
+    "price": 44000,
+    "longitude": 22.433357,
+    "latitude": 38.904629,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15149583,
+    "sq_meters": 95,
+    "price": 50000,
+    "longitude": 22.478453,
+    "latitude": 38.850288,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15519982,
+    "sq_meters": 135,
+    "price": 130000,
+    "longitude": 22.428621,
+    "latitude": 38.905201,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": 2024
+},
+            
+{
+    "id": 14896816,
+    "sq_meters": 122,
+    "price": 120000,
+    "longitude": 22.456242,
+    "latitude": 38.899578,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 14943269,
+    "sq_meters": 248,
+    "price": 250000,
+    "longitude": 22.433485,
+    "latitude": 38.896778,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14421486,
+    "sq_meters": 100,
+    "price": 135000,
+    "longitude": 22.443056,
+    "latitude": 38.892929,
+    "rooms": 3,
+    "floor": 6,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13816845,
+    "sq_meters": 240,
+    "price": 250000,
+    "longitude": 22.433697,
+    "latitude": 38.899685,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 2007,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13840680,
+    "sq_meters": 95,
+    "price": 128000,
+    "longitude": 22.488541,
+    "latitude": 38.899693,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1962,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15461483,
+    "sq_meters": 80,
+    "price": 70000,
+    "longitude": 22.433756,
+    "latitude": 38.892254,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15520618,
+    "sq_meters": 82,
+    "price": 140000,
+    "longitude": 22.436081,
+    "latitude": 38.89946,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 9553947,
+    "sq_meters": 283,
+    "price": 75000,
+    "longitude": 22.478252,
+    "latitude": 38.85009,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+
+{
+    "id": 13808384,
+    "sq_meters": 279,
+    "price": 75000,
+    "longitude": 22.478252,
+    "latitude": 38.85009,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1975,
+    "renovatedIn": null
+},
+
+{
+    "id": 13517875,
+    "sq_meters": 140,
+    "price": 67000,
+    "longitude": 22.478252,
+    "latitude": 38.85009,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9466084,
+    "sq_meters": 170,
+    "price": 600000,
+    "longitude": 22.371813,
+    "latitude": 38.897381,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2019,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14680074,
+    "sq_meters": 80,
+    "price": 59000,
+    "longitude": 22.435507,
+    "latitude": 38.888546,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1954,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14369790,
+    "sq_meters": 87,
+    "price": 50000,
+    "longitude": 22.431162,
+    "latitude": 38.90266,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15452929,
+    "sq_meters": 93,
+    "price": 130000,
+    "longitude": 22.42202,
+    "latitude": 38.891151,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14811654,
+    "sq_meters": 69,
+    "price": 95000,
+    "longitude": 22.437208,
+    "latitude": 38.889565,
+    "rooms": 2,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 14712219,
+    "sq_meters": 323,
+    "price": 1190000,
+    "longitude": 22.391941,
+    "latitude": 38.888191,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1996,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9444452,
+    "sq_meters": 105,
+    "price": 89000,
+    "longitude": 22.439516,
+    "latitude": 38.891182,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1997,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15123356,
+    "sq_meters": 37,
+    "price": 39000,
+    "longitude": 22.428524,
+    "latitude": 38.899303,
+    "rooms": 1,
+    "floor": 5,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1979,
+    "renovatedIn": 2000
+},
+
+{
+    "id": 14560802,
+    "sq_meters": 110,
+    "price": 85000,
+    "longitude": 22.439819,
+    "latitude": 38.898239,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": 2020
+},
+            
+{
+    "id": 13798113,
+    "sq_meters": 110,
+    "price": 78000,
+    "longitude": 22.431026,
+    "latitude": 38.897774,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12312990,
+    "sq_meters": 74,
+    "price": 62000,
+    "longitude": 22.408806,
+    "latitude": 38.88879,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2002,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14990477,
+    "sq_meters": 320,
+    "price": 1500000,
+    "longitude": 22.428976,
+    "latitude": 38.888199,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2011,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 11125617,
+    "sq_meters": 50,
+    "price": 65000,
+    "longitude": 22.437344,
+    "latitude": 38.895107,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15331673,
+    "sq_meters": 150,
+    "price": 150000,
+    "longitude": 22.429296,
+    "latitude": 38.897587,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1995,
+    "renovatedIn": 2020
+},
+            
+{
+    "id": 15512579,
+    "sq_meters": 219,
+    "price": 96000,
+    "longitude": 22.432381,
+    "latitude": 38.900948,
+    "rooms": 6,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": null
+},
+
+{
+    "id": 15512538,
+    "sq_meters": 74,
+    "price": 29000,
+    "longitude": 22.432381,
+    "latitude": 38.900948,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1971,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9444446,
+    "sq_meters": 120,
+    "price": 95000,
+    "longitude": 22.440544,
+    "latitude": 38.892357,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14314791,
+    "sq_meters": 600,
+    "price": 3500000,
+    "longitude": 22.420569,
+    "latitude": 38.926221,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1990,
+    "renovatedIn": 2004
+},
+            
+{
+    "id": 15539311,
+    "sq_meters": 104,
+    "price": 60000,
+    "longitude": 22.439152,
+    "latitude": 38.89687,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14825374,
+    "sq_meters": 145,
+    "price": 40000,
+    "longitude": 22.435196,
+    "latitude": 38.902401,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1930,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14617919,
+    "sq_meters": 50,
+    "price": 35000,
+    "longitude": 22.433508,
+    "latitude": 38.899353,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1966,
+    "renovatedIn": null
+},
+            
+{
+    "id": 11456840,
+    "sq_meters": 145,
+    "price": 190000,
+    "longitude": 22.42454,
+    "latitude": 38.916889,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2002,
+    "renovatedIn": null
+},
+
+{
+    "id": 14700589,
+    "sq_meters": 95,
+    "price": 45000,
+    "longitude": 22.475603,
+    "latitude": 38.84631,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2005,
+    "renovatedIn": 2012
+},
+            
+{
+    "id": 14818639,
+    "sq_meters": 290,
+    "price": 140000,
+    "longitude": 22.430058,
+    "latitude": 38.907009,
+    "rooms": 6,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14633837,
+    "sq_meters": 75,
+    "price": 65000,
+    "longitude": 22.429125,
+    "latitude": 38.917316,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14264505,
+    "sq_meters": 285,
+    "price": 250000,
+    "longitude": 22.376238,
+    "latitude": 38.892788,
+    "rooms": 4,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14138884,
+    "sq_meters": 84,
+    "price": 105000,
+    "longitude": 22.440006,
+    "latitude": 38.897369,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 13692613,
+    "sq_meters": 156,
+    "price": 156000,
+    "longitude": 22.434628,
+    "latitude": 38.888386,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 13697622,
+    "sq_meters": 70,
+    "price": 60000,
+    "longitude": 22.434498,
+    "latitude": 38.888363,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14995461,
+    "sq_meters": 116,
+    "price": 140000,
+    "longitude": 22.443941,
+    "latitude": 38.900719,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15042742,
+    "sq_meters": 23,
+    "price": 19000,
+    "longitude": 22.430601,
+    "latitude": 38.888222,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+    
+{
+    "id": 14439918,
+    "sq_meters": 128,
+    "price": 67000,
+    "longitude": 22.435667,
+    "latitude": 38.899731,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+
+{
+    "id": 14436110,
+    "sq_meters": 82,
+    "price": 97000,
+    "longitude": 22.442253,
+    "latitude": 38.894875,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1998,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15509526,
+    "sq_meters": 80,
+    "price": 29000,
+    "longitude": 22.434816,
+    "latitude": 38.902622,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15080474,
+    "sq_meters": 145,
+    "price": 67000,
+    "longitude": 22.432312,
+    "latitude": 38.892368,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14128710,
+    "sq_meters": 133,
+    "price": 75000,
+    "longitude": 22.474789,
+    "latitude": 38.894043,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 9121324,
+    "sq_meters": 120,
+    "price": 23000,
+    "longitude": 22.474789,
+    "latitude": 38.894043,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 13619790,
+    "sq_meters": 115,
+    "price": 58000,
+    "longitude": 22.474789,
+    "latitude": 38.894043,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 13841848,
+    "sq_meters": 263,
+    "price": 136000,
+    "longitude": 22.474789,
+    "latitude": 38.894043,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1982,
+    "renovatedIn": null
+},
+
+{
+    "id": 13238845,
+    "sq_meters": 70,
+    "price": 45000,
+    "longitude": 22.438288,
+    "latitude": 38.898422,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15042792,
+    "sq_meters": 22,
+    "price": 19000,
+    "longitude": 22.429407,
+    "latitude": 38.888168,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+        
+{
+    "id": 14004509,
+    "sq_meters": 115,
+    "price": 129000,
+    "longitude": 22.437534,
+    "latitude": 38.888241,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14004510,
+    "sq_meters": 147,
+    "price": 166000,
+    "longitude": 22.437534,
+    "latitude": 38.888241,
+    "rooms": 4,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14015461,
+    "sq_meters": 220,
+    "price": 140000,
+    "longitude": 22.427326,
+    "latitude": 38.887894,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 13816042,
+    "sq_meters": 25,
+    "price": 25000,
+    "longitude": 22.430588,
+    "latitude": 38.901288,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": null
+},
+            
+{
+    "id": 10355490,
+    "sq_meters": 53,
+    "price": 32000,
+    "longitude": 22.431744,
+    "latitude": 38.898861,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+
+{
+    "id": 10355486,
+    "sq_meters": 82,
+    "price": 58000,
+    "longitude": 22.43191,
+    "latitude": 38.898849,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15331678,
+    "sq_meters": 120,
+    "price": 70000,
+    "longitude": 22.426153,
+    "latitude": 38.895626,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 7906307,
+    "sq_meters": 168,
+    "price": 300000,
+    "longitude": 22.44511,
+    "latitude": 38.900051,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15459250,
+    "sq_meters": 180,
+    "price": 180000,
+    "longitude": 22.432135,
+    "latitude": 38.904636,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1965,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15203372,
+    "sq_meters": 83,
+    "price": 95000,
+    "longitude": 22.43288,
+    "latitude": 38.900852,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13724329,
+    "sq_meters": 148,
+    "price": 129000,
+    "longitude": 22.433777,
+    "latitude": 38.888081,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 9412504,
+    "sq_meters": 115,
+    "price": 55000,
+    "longitude": 22.430317,
+    "latitude": 38.899197,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14850898,
+    "sq_meters": 63,
+    "price": 32000,
+    "longitude": 22.435295,
+    "latitude": 38.902035,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1972,
+    "renovatedIn": 2018
+},
+            
+{
+    "id": 13619634,
+    "sq_meters": 280,
+    "price": 280000,
+    "longitude": 22.435762,
+    "latitude": 38.890888,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13253580,
+    "sq_meters": 360,
+    "price": 800000,
+    "longitude": 22.419144,
+    "latitude": 38.887497,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+        
+{
+    "id": 12756401,
+    "sq_meters": 165,
+    "price": 135000,
+    "longitude": 22.439131,
+    "latitude": 38.881351,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 15355122,
+    "sq_meters": 132,
+    "price": 250000,
+    "longitude": 22.434294,
+    "latitude": 38.900578,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 2,
+    "constructionYear": 2004,
+    "renovatedIn": null
+},
+
+{
+    "id": 14786776,
+    "sq_meters": 122,
+    "price": 99000,
+    "longitude": 22.434208,
+    "latitude": 38.900578,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 14179857,
+    "sq_meters": 100,
+    "price": 90000,
+    "longitude": 22.410484,
+    "latitude": 38.923196,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": 1995
+},
+
+{
+    "id": 13425167,
+    "sq_meters": 121,
+    "price": 120000,
+    "longitude": 22.462379,
+    "latitude": 38.899223,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+
+{
+    "id": 9553982,
+    "sq_meters": 170,
+    "price": 150000,
+    "longitude": 22.406296,
+    "latitude": 38.925026,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1987,
+    "renovatedIn": 1995
+},
+            
+{
+    "id": 14057802,
+    "sq_meters": 95,
+    "price": 65000,
+    "longitude": 22.434855,
+    "latitude": 38.899517,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1984,
+    "renovatedIn": 2010
+},
+            
+{
+    "id": 13748985,
+    "sq_meters": 378,
+    "price": 218000,
+    "longitude": 22.369238,
+    "latitude": 38.899532,
+    "rooms": 6,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+        
+{
+    "id": 15525385,
+    "sq_meters": 68,
+    "price": 70000,
+    "longitude": 22.440435,
+    "latitude": 38.892731,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": 2021
+},
+            
+{
+    "id": 14284769,
+    "sq_meters": 205,
+    "price": 240000,
+    "longitude": 22.412584,
+    "latitude": 38.92347,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1996,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12681734,
+    "sq_meters": 280,
+    "price": 110000,
+    "longitude": 22.36841,
+    "latitude": 38.902103,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+
+{
+    "id": 15536684,
+    "sq_meters": 102,
+    "price": 35000,
+    "longitude": 22.431896,
+    "latitude": 38.904926,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15215362,
+    "sq_meters": 166,
+    "price": 170000,
+    "longitude": 22.443459,
+    "latitude": 38.904343,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14945747,
+    "sq_meters": 104,
+    "price": 75000,
+    "longitude": 22.429836,
+    "latitude": 38.906704,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors":2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+
+{
+    "id": 15337776,
+    "sq_meters": 59,
+    "price": 42000,
+    "longitude": 22.429896,
+    "latitude": 38.906709,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 14809534,
+    "sq_meters": 70,
+    "price": 88000,
+    "longitude": 22.434677,
+    "latitude": 38.896114,
+    "rooms": 2,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2012,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14616403,
+    "sq_meters": 74,
+    "price": 77000,
+    "longitude": 22.437452,
+    "latitude": 38.890602,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14090414,
+    "sq_meters": 115,
+    "price": 110000,
+    "longitude": 22.434511,
+    "latitude": 38.89798,
+    "rooms": 4,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15114904,
+    "sq_meters": 48,
+    "price": 31000,
+    "longitude": 22.429934,
+    "latitude": 38.909271,
+    "rooms": 1,
+    "floor": 5,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15114899,
+    "sq_meters": 48,
+    "price": 32000,
+    "longitude": 22.430507,
+    "latitude": 38.909962,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+
+{
+    "id": 14907284,
+    "sq_meters": 65,
+    "price": 54000,
+    "longitude": 22.432751,
+    "latitude": 38.9146,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14889033,
+    "sq_meters": 89,
+    "price": 79000,
+    "longitude": 22.436668,
+    "latitude": 38.898891,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14075582,
+    "sq_meters": 260,
+    "price": 185000,
+    "longitude": 22.390181,
+    "latitude": 38.850071,
+    "rooms": 6,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13935297,
+    "sq_meters": 166,
+    "price": 160000,
+    "longitude": 22.476332,
+    "latitude": 38.850605,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1992,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13126195,
+    "sq_meters": 100,
+    "price": 42000,
+    "longitude": 22.431889,
+    "latitude": 38.895706,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 15497581,
+    "sq_meters": 90,
+    "price": 100000,
+    "longitude": 22.4459,
+    "latitude": 38.89547,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1992,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14700388,
+    "sq_meters": 134,
+    "price": 140000,
+    "longitude": 22.439125,
+    "latitude": 38.895943,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+
+{
+    "id": 15555995,
+    "sq_meters": 260,
+    "price": 159000,
+    "longitude": 22.389338,
+    "latitude": 38.850498,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14556678,
+    "sq_meters": 235,
+    "price": 240000,
+    "longitude": 22.389965,
+    "latitude": 38.850536,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 14319094,
+    "sq_meters": 17,
+    "price": 11000,
+    "longitude": 22.431227,
+    "latitude": 38.885395,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+
+{
+    "id": 13033496,
+    "sq_meters": 120,
+    "price": 170000,
+    "longitude": 22.430134,
+    "latitude": 38.908318,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11853966,
+    "sq_meters": 420,
+    "price": 200000,
+    "longitude": 22.432405,
+    "latitude": 38.888615,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15280494,
+    "sq_meters": 105,
+    "price": 52000,
+    "longitude": 22.428659,
+    "latitude": 38.896149,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1952,
+    "renovatedIn": 2012
+},
+
+{
+    "id": 12968079,
+    "sq_meters": 75,
+    "price": 76000,
+    "longitude": 22.434771,
+    "latitude": 38.896164,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14927274,
+    "sq_meters": 65,
+    "price": 60000,
+    "longitude": 22.436775,
+    "latitude": 38.900963,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1981,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14573682,
+    "sq_meters": 186,
+    "price": 395000,
+    "longitude": 22.402025,
+    "latitude": 38.8993,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14544407,
+    "sq_meters": 129,
+    "price": 147000,
+    "longitude": 22.43289,
+    "latitude": 38.89916, 
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1968,
+    "renovatedIn": 2022
+},
+            
+{
+    "id": 13551190,
+    "sq_meters": 280,
+    "price": 265000,
+    "longitude": 22.420052,
+    "latitude": 38.893036,
+    "rooms": 6,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15453543,
+    "sq_meters": 323,
+    "price": 850000,
+    "longitude": 22.451385,
+    "latitude": 38.888489,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1997,
+    "renovatedIn": 2008
+},
+            
+{
+    "id": 14885326,
+    "sq_meters": 94,
+    "price": 58000,
+    "longitude": 22.431507,
+    "latitude": 38.897755,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 14894910,
+    "sq_meters": 63,
+    "price": 45000,
+    "longitude": 22.431463,
+    "latitude": 38.897747,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 14421257,
+    "sq_meters": 273,
+    "price": 87000,
+    "longitude": 22.4314,
+    "latitude": 38.897629,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 3,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+        
+{
+    "id": 15492297,
+    "sq_meters": 77,
+    "price": 63000,
+    "longitude": 22.435804,
+    "latitude": 38.896408,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15290982,
+    "sq_meters": 65,
+    "price": 53000,
+    "longitude": 22.434885,
+    "latitude": 38.896973,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14951628,
+    "sq_meters": 72,
+    "price": 70000,
+    "longitude": 22.435169,
+    "latitude": 38.896469,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+
+{
+    "id": 14827224,
+    "sq_meters": 120,
+    "price": 140000,
+    "longitude": 22.435287,
+    "latitude": 38.896561,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 11787172,
+    "sq_meters": 72,
+    "price": 75000,
+    "longitude": 22.440001,
+    "latitude": 38.8979,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2008,
+    "renovatedIn": null
+},
+
+{
+    "id": 12972117,
+    "sq_meters": 65,
+    "price": 43000,
+    "longitude": 22.440001,
+    "latitude": 38.8979,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14119531,
+    "sq_meters": 300,
+    "price": 230000,
+    "longitude": 22.468672,
+    "latitude": 38.850338,
+    "rooms": 5,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 13428231,
+    "sq_meters": 139,
+    "price": 44000,
+    "longitude": 22.431509,
+    "latitude": 38.908211,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12727921,
+    "sq_meters": 96,
+    "price": 60000,
+    "longitude": 22.433945,
+    "latitude": 38.896484,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null
+},
+
+{
+    "id": 14279538,
+    "sq_meters": 38,
+    "price": 38000,
+    "longitude": 22.435106,
+    "latitude": 38.892403,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15579006,
+    "sq_meters": 83,
+    "price": 80000,
+    "longitude": 22.432609,
+    "latitude": 38.903451,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15544791,
+    "sq_meters": 125,
+    "price": 108000,
+    "longitude": 22.431789,
+    "latitude": 38.899063,
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14822711,
+    "sq_meters": 55,
+    "price": 25000,
+    "longitude": 22.433706,
+    "latitude": 38.899784,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14641230,
+    "sq_meters": 128,
+    "price": 65000,
+    "longitude": 22.427248,
+    "latitude": 38.91563,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1954,
+    "renovatedIn": 1980
+},
+            
+{
+    "id": 14436785,
+    "sq_meters": 82,
+    "price": 55000,
+    "longitude": 22.436207,
+    "latitude": 38.900753,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11771013,
+    "sq_meters": 220,
+    "price": 120000,
+    "longitude": 22.543966,
+    "latitude": 38.799637,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1991,
+    "renovatedIn": null
+},
+            
+{
+    "id": 8991097,
+    "sq_meters": 40,
+    "price": 48000,
+    "longitude": 22.431461,
+    "latitude": 38.893688,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null
+},
+            
+{
+    "id": 8736160,
+    "sq_meters": 205,
+    "price": 75000,
+    "longitude": 22.43903,
+    "latitude": 38.884689,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15055405,
+    "sq_meters": 73,
+    "price": 52000,
+    "longitude": 22.431358,
+    "latitude": 38.904629,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": null
+},
+
+{
+    "id": 15055339,
+    "sq_meters": 73,
+    "price": 44000,
+    "longitude": 22.431358,
+    "latitude": 38.904629,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": 2000 
+},
+            
+{
+    "id": 14331450,
+    "sq_meters": 50,
+    "price": 50000,
+    "longitude": 22.432608,
+    "latitude": 38.886169,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": 2022
+},
+
+{
+    "id": 14331436,
+    "sq_meters": 35,
+    "price": 35000,
+    "longitude": 22.432608,
+    "latitude": 38.886177,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": 2022 
+},
+            
+{
+    "id": 13692608,
+    "sq_meters": 55,
+    "price": 48000,
+    "longitude": 22.436312,
+    "latitude": 38.888409,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14889348,
+    "sq_meters": 42,
+    "price": 43000,
+    "longitude": 22.438856,
+    "latitude": 38.890041,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": 2015
+},
+            
+{
+    "id": 15538631,
+    "sq_meters": 93,
+    "price": 120000,
+    "longitude": 22.389509,
+    "latitude": 38.8507,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1993,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12824429,
+    "sq_meters": 38,
+    "price": 19000,
+    "longitude": 22.434952,
+    "latitude": 38.898598,
+    "rooms": 0,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 14104040,
+    "sq_meters": 73,
+    "price": 52000,
+    "longitude": 22.430788,
+    "latitude": 38.903606,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": null
+},
+
+{
+    "id": 10202074,
+    "sq_meters": 135,
+    "price": 124000,
+    "longitude": 22.429995,
+    "latitude": 38.907215,
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 12948920,
+    "sq_meters": 270,
+    "price": 78000,
+    "longitude": 22.426392,
+    "latitude": 38.890285,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1981,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14890085,
+    "sq_meters": 96,
+    "price": 49000,
+    "longitude": 22.437727,
+    "latitude": 38.901447,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1977,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13646182,
+    "sq_meters": 117,
+    "price": 129000,
+    "longitude": 22.434328,
+    "latitude": 38.888302,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13645979,
+    "sq_meters": 75,
+    "price": 66000,
+    "longitude": 22.43434,
+    "latitude": 38.888309,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 6930477,
+    "sq_meters": 35,
+    "price": 30000,
+    "longitude": 22.3701,
+    "latitude": 38.900799,
+    "rooms": 0,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14862288,
+    "sq_meters": 83,
+    "price": 55000,
+    "longitude": 22.42964,
+    "latitude": 38.900841,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": null
+},
+
+{
+    "id": 14627679,
+    "sq_meters": 87,
+    "price": 52000,
+    "longitude": 22.432301,
+    "latitude": 38.900993,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 13949386,
+    "sq_meters": 95,
+    "price": 37000,
+    "longitude": 22.43754,
+    "latitude": 38.898258,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 14150717,
+    "sq_meters": 105,
+    "price": 74000,
+    "longitude": 22.430481,
+    "latitude": 38.905598,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1940,
+    "renovatedIn": null
+},
+
+{
+    "id": 15385920,
+    "sq_meters": 75,
+    "price": 55000,
+    "longitude": 22.436701,
+    "latitude": 38.897381,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13981280,
+    "sq_meters": 87,
+    "price": 55000,
+    "longitude": 22.431244,
+    "latitude": 38.901844,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1966,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13701054,
+    "sq_meters": 110,
+    "price": 105000,
+    "longitude": 22.407166,
+    "latitude": 38.890354,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 12611458,
+    "sq_meters": 314,
+    "price": 250000,
+    "longitude": 22.44442,
+    "latitude": 38.893364,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1960,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13545801,
+    "sq_meters": 85,
+    "price": 79000,
+    "longitude": 22.406307,
+    "latitude": 38.890343,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1981,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13742792,
+    "sq_meters": 135,
+    "price": 320000,
+    "longitude": 22.429092,
+    "latitude": 38.905762,
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12920864,
+    "sq_meters": 86,
+    "price": 130000,
+    "longitude": 22.432079,
+    "latitude": 38.893848,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2014,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14476386,
+    "sq_meters": 230,
+    "price": 200000,
+    "longitude": 22.428053,
+    "latitude": 38.89481,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+        
+{
+    "id": 15564011,
+    "sq_meters": 37,
+    "price": 39000,
+    "longitude": 22.431765,
+    "latitude": 38.899319,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14827225,
+    "sq_meters": 100,
+    "price": 130000,
+    "longitude": 22.431314,
+    "latitude": 38.901554,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+
+{
+    "id": 13978069,
+    "sq_meters": 59,
+    "price": 66000,
+    "longitude": 22.441427,
+    "latitude": 38.897186,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 13977123,
+    "sq_meters": 58,
+    "price": 68000,
+    "longitude": 22.441427,
+    "latitude": 38.897186,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13977043,
+    "sq_meters": 89,
+    "price": 99000,
+    "longitude": 22.441427,
+    "latitude": 38.897186,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 13977401,
+    "sq_meters": 95,
+    "price": 102000,
+    "longitude": 22.441427,
+    "latitude": 38.897186,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14960194,
+    "sq_meters": 68,
+    "price": 60000,
+    "longitude": 22.434032,
+    "latitude": 38.900223,
+    "rooms": 2,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14267948,
+    "sq_meters": 73,
+    "price": 44000,
+    "longitude": 22.430756,
+    "latitude": 38.905529,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": 2000
+},
+            
+{
+    "id": 15556855,
+    "sq_meters": 102,
+    "price": 50000,
+    "longitude": 22.433949,
+    "latitude": 38.895504,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12393850,
+    "sq_meters": 155,
+    "price": 165000,
+    "longitude": 22.434027,
+    "latitude": 38.895504,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 15482324,
+    "sq_meters": 84,
+    "price": 45000,
+    "longitude": 22.431198,
+    "latitude": 38.903938,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15434225,
+    "sq_meters": 174,
+    "price": 95000,
+    "longitude": 22.428631,
+    "latitude": 38.900051,
+    "rooms": 5,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14877999,
+    "sq_meters": 110,
+    "price": 75000,
+    "longitude": 22.42639,
+    "latitude": 38.908684,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 11127750,
+    "sq_meters": 204,
+    "price": 223500,
+    "longitude": 22.45059,
+    "latitude": 38.896709,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+            
+{
+    "id": 10968248,
+    "sq_meters": 150,
+    "price": 85000,
+    "longitude": 22.431749,
+    "latitude": 38.89323,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14331425,
+    "sq_meters": 35,
+    "price": 34000,
+    "longitude": 22.431097,
+    "latitude": 38.886341,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": 2022 
+},
+            
+{
+    "id": 15127962,
+    "sq_meters": 85,
+    "price": 56000,
+    "longitude": 22.435291,
+    "latitude": 38.895107,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14510455,
+    "sq_meters": 77,
+    "price": 55000,
+    "longitude": 22.436964,
+    "latitude": 38.887928,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12756115,
+    "sq_meters": 66,
+    "price": 57000,
+    "longitude": 22.44327,
+    "latitude": 38.897018,
+    "rooms": 1,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14320791,
+    "sq_meters": 119,
+    "price": 79000,
+    "longitude": 22.434441,
+    "latitude": 38.902458,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15555935,
+    "sq_meters": 125,
+    "price": 68000,
+    "longitude": 22.428307,
+    "latitude": 38.916542,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13751018,
+    "sq_meters": 100,
+    "price": 70000,
+    "longitude": 22.431021,
+    "latitude": 38.902431,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": 2010
+},
+            
+{
+    "id": 13205799,
+    "sq_meters": 70,
+    "price": 32000,
+    "longitude": 22.430305,
+    "latitude": 38.901489,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15258066,
+    "sq_meters": 80,
+    "price": 55000,
+    "longitude": 22.353848,
+    "latitude": 38.938541,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": 1993
+
+},
+            
+{
+    "id": 15407178,
+    "sq_meters": 62,
+    "price": 59000,
+    "longitude": 22.435505,
+    "latitude": 38.896656,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2012,
+    "renovatedIn": null
+},
+
+{
+    "id": 15403639,
+    "sq_meters": 210,
+    "price": 270000,
+    "longitude": 22.444603,
+    "latitude": 38.904385,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13971110,
+    "sq_meters": 92,
+    "price": 48000,
+    "longitude": 22.43008,
+    "latitude": 38.90778,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1972,
+    "renovatedIn": 1985
+},
+            
+{
+    "id": 13181088,
+    "sq_meters": 116,
+    "price": 50000,
+    "longitude": 22.430391,
+    "latitude": 38.908035,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 12152295,
+    "sq_meters": 215,
+    "price": 190000,
+    "longitude": 22.37606,
+    "latitude": 38.891838,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14786905,
+    "sq_meters": 88,
+    "price": 89000,
+    "longitude": 22.458405,
+    "latitude": 38.901646,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2003,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14246431,
+    "sq_meters": 121,
+    "price": 120000,
+    "longitude": 22.45886,
+    "latitude": 38.901413,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15299183,
+    "sq_meters": 93,
+    "price": 92000,
+    "longitude": 22.43434,
+    "latitude": 38.900452,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 13320568,
+    "sq_meters": 89,
+    "price": 51000,
+    "longitude": 22.433481,
+    "latitude": 38.902924,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14411050,
+    "sq_meters": 70,
+    "price": 75000,
+    "longitude": 22.431486,
+    "latitude": 38.889137,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13716775,
+    "sq_meters": 106,
+    "price": 118000,
+    "longitude": 22.427992,
+    "latitude": 38.917599,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2001,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9905609,
+    "sq_meters": 150,
+    "price": 255000,
+    "longitude": 22.43339,
+    "latitude": 38.89854,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15556886,
+    "sq_meters": 92,
+    "price": 75000,
+    "longitude": 22.428802,
+    "latitude": 38.909386,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+            
+{
+    "id": 13660470,
+    "sq_meters": 86,
+    "price": 95000,
+    "longitude": 22.432829,
+    "latitude": 38.901176,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15555892,
+    "sq_meters": 70,
+    "price": 28000,
+    "longitude": 22.440825,
+    "latitude": 38.896976,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14006822,
+    "sq_meters": 85,
+    "price": 50000,
+    "longitude": 22.42939,
+    "latitude": 38.905811,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 14179768,
+    "sq_meters": 110,
+    "price": 150000,
+    "longitude": 22.427258,
+    "latitude": 38.913845,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 13646112,
+    "sq_meters": 72,
+    "price": 62000,
+    "longitude": 22.434467,
+    "latitude": 38.888302,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+
+{
+    "id": 14675126,
+    "sq_meters": 89,
+    "price": 99000,
+    "longitude": 22.443426,
+    "latitude": 38.897186,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14675215,
+    "sq_meters": 58,
+    "price": 68000,
+    "longitude": 22.443426,
+    "latitude": 38.897186,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 14675019,
+    "sq_meters": 59,
+    "price": 66000,
+    "longitude": 22.443426,
+    "latitude": 38.897186,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15566446,
+    "sq_meters": 78,
+    "price": 48000,
+    "longitude": 22.437469,
+    "latitude": 38.889771,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1973,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14883458,
+    "sq_meters": 107,
+    "price": 113000,
+    "longitude": 22.475237,
+    "latitude": 38.892147,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2011,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15556907,
+    "sq_meters": 90,
+    "price": 85000,
+    "longitude": 22.439013,
+    "latitude": 38.878151,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15003079,
+    "sq_meters": 76,
+    "price": 66000,
+    "longitude": 22.434204,
+    "latitude": 38.90139,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1987,
+    "renovatedIn": null
+},
+
+{
+    "id": 13472042,
+    "sq_meters": 284,
+    "price": 110000,
+    "longitude": 22.372713,
+    "latitude": 38.895275,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+
+{
+    "id": 10468617,
+    "sq_meters": 71,
+    "price": 63000,
+    "longitude": 22.428209,
+    "latitude": 38.908089,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14782486,
+    "sq_meters": 39,
+    "price": 35000,
+    "longitude": 22.434208,
+    "latitude": 38.900982,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 11629175,
+    "sq_meters": 90,
+    "price": 49000,
+    "longitude": 22.431679,
+    "latitude": 38.903324,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 9893537,
+    "sq_meters": 92,
+    "price": 64000,
+    "longitude": 22.43145,
+    "latitude": 38.902939,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 15556940,
+    "sq_meters": 142,
+    "price": 270000,
+    "longitude": 22.429537,
+    "latitude": 38.899834,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1900,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14273019,
+    "sq_meters": 84,
+    "price": 82000,
+    "longitude": 22.437956,
+    "latitude": 38.90052,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2010
+},
+
+{
+    "id": 12733241,
+    "sq_meters": 238,
+    "price": 125000,
+    "longitude": 22.434116,
+    "latitude": 38.900734,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15212731,
+    "sq_meters": 19,
+    "price": 11000,
+    "longitude": 22.432121,
+    "latitude": 38.885975,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+            
+{
+    "id": 12461794,
+    "sq_meters": 85,
+    "price": 40000,
+    "longitude": 22.436115,
+    "latitude": 38.900974,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14534314,
+    "sq_meters": 110,
+    "price": 95000,
+    "longitude": 22.431744,
+    "latitude": 38.902859,
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": 1996
+},
+            
+{
+    "id": 15461594,
+    "sq_meters": 100,
+    "price": 78000,
+    "longitude": 22.428771,
+    "latitude": 38.910503,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear":1910,
+    "renovatedIn": null
+},
+            
+{
+    "id": 15372726,
+    "sq_meters": 120,
+    "price": 130000,
+    "longitude": 22.434036,
+    "latitude": 38.900715,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14417551,
+    "sq_meters": 59,
+    "price": 57000,
+    "longitude": 22.43008,
+    "latitude": 38.90654,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+
+{
+    "id": 14320282,
+    "sq_meters": 90,
+    "price": 120000,
+    "longitude": 22.440849,
+    "latitude": 38.899021,
+    "rooms": 3,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+            
+{
+    "id": 14583043,
+    "sq_meters": 33,
+    "price": 36000,
+    "longitude": 22.435093,
+    "latitude": 38.892685,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+
+{
+    "id": 14445315,
+    "sq_meters": 85,
+    "price": 65000,
+    "longitude": 22.413616,
+    "latitude": 38.892437,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15506707,
+    "sq_meters": 72,
+    "price": 39000,
+    "longitude": 22.434465,
+    "latitude": 38.900379,
+    "rooms": 2,
+    "floor": null,
+    "totalFloors": null,
+    "levels": null,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15922721,
+    "sq_meters": 265,
+    "price": 83000,
+    "longitude": 22.38623,
+    "latitude": 38.93016,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2001,
+    "renovatedIn": null
+},
+
+{
+    "id": 15972728,
+    "sq_meters": 224,
+    "price": 140000,
+    "longitude": 22.40203, 
+    "latitude": 38.92524,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1982,
+    "renovatedIn": null
+},
+
+{
+    "id": 15939964,
+    "sq_meters": 70,
+    "price": 60000,
+    "longitude": 22.42968, 
+    "latitude": 38.92003,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors":3,
+    "levels": 3,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13907548,
+    "sq_meters": 80,
+    "price": 73000,
+    "longitude": 22.42538, 
+    "latitude": 38.91707,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1950,
+    "renovatedIn": null 
+},
+
+
+{
+    "id": 16117058,
+    "sq_meters": 224,
+    "price": 200000,
+    "longitude": 22.425388, 
+    "latitude": 38.913467,
+    "rooms": 0,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15629706,
+    "sq_meters": 90,
+    "price": 50000,
+    "longitude": 22.43309, 
+    "latitude": 38.91563,
+    "rooms": 0,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1974,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16086612,
+    "sq_meters": 48,
+    "price": 55000,
+    "longitude": 22.429653, 
+    "latitude": 38.909924,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16047964,
+    "sq_meters": 343,
+    "price": 157000,
+    "longitude": 22.42758, 
+    "latitude": 38.91206,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1986,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15596385,
+    "sq_meters": 73,
+    "price": 70000,
+    "longitude": 22.427933, 
+    "latitude": 38.91309,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1987,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15968313,
+    "sq_meters": 109,
+    "price": 50000,
+    "longitude": 22.429739, 
+    "latitude": 38.906857,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16093142,
+    "sq_meters": 57,
+    "price": 60000,
+    "longitude": 22.432053, 
+    "latitude": 38.90843,
+    "rooms": 4,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": 2016 
+},
+
+{
+    "id": 16014942,
+    "sq_meters": 80,
+    "price": 55000,
+    "longitude": 22.431593, 
+    "latitude": 38.907898,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+
+{
+    "id": 15726345,
+    "sq_meters": 65,
+    "price": 48000,
+    "longitude": 22.431021, 
+    "latitude": 38.907688,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 15869810,
+    "sq_meters": 102,
+    "price": 40000,
+    "longitude": 22.431896, 
+    "latitude": 38.904926,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1977,
+    "renovatedIn": null
+},
+
+{
+    "id": 15969908,
+    "sq_meters": 77,
+    "price": 50000,
+    "longitude": 22.430504, 
+    "latitude": 38.905552,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+
+{
+    "id": 16093160,
+    "sq_meters": 50,
+    "price": 20000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16128015,
+    "sq_meters": 206,
+    "price": 230000,
+    "longitude": 22.43086, 
+    "latitude": 38.90349,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null
+},
+
+{
+    "id": 15845614,
+    "sq_meters": 52,
+    "price": 45000,
+    "longitude": 22.433197, 
+    "latitude": 38.90226,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": 2015
+},
+
+{
+    "id": 12611459,
+    "sq_meters": 100,
+    "price": 40000,
+    "longitude": 22.4342, 
+    "latitude": 38.904099,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null
+},
+
+{
+    "id": 15740336,
+    "sq_meters": 74,
+    "price": 80000,
+    "longitude": 22.430672, 
+    "latitude": 38.904156,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15808302,
+    "sq_meters": 88,
+    "price": 80000,
+    "longitude": 22.431723, 
+    "latitude": 38.904663,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1977,
+    "renovatedIn": null
+},
+
+{
+    "id": 16065080,
+    "sq_meters": 85,
+    "price": 55000,
+    "longitude": 22.426958, 
+    "latitude": 38.90279,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null
+},
+
+{
+    "id": 15668031,
+    "sq_meters": 140,
+    "price": 123000,
+    "longitude": 22.43222, 
+    "latitude": 38.90218,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1976,
+    "renovatedIn": null
+},
+
+{
+    "id": 16097325,
+    "sq_meters": 85,
+    "price": 120000,
+    "longitude": 22.433638, 
+    "latitude": 38.901909,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 15877214,
+    "sq_meters": 135,
+    "price": 108000,
+    "longitude": 22.42931, 
+    "latitude": 38.900249,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15728257,
+    "sq_meters": 174,
+    "price": 95000,
+    "longitude": 22.428631, 
+    "latitude": 38.900051,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1969,
+    "renovatedIn": null
+},
+
+{
+    "id": 15894885,
+    "sq_meters": 60,
+    "price": 38000,
+    "longitude": 22.42931, 
+    "latitude": 38.900249,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null
+},
+
+{
+    "id": 15844182,
+    "sq_meters": 80,
+    "price": 105000,
+    "longitude": 22.429518, 
+    "latitude": 38.900543,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null
+},
+
+{
+    "id": 16030195,
+    "sq_meters": 71,
+    "price": 82000,
+    "longitude": 22.430513, 
+    "latitude": 38.901154,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 16122937,
+    "sq_meters": 85,
+    "price": 45000,
+    "longitude": 22.434425, 
+    "latitude": 38.899719,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 15676381,
+    "sq_meters": 100,
+    "price": 54000,
+    "longitude": 22.430445, 
+    "latitude": 38.901562,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+
+{
+    "id": 15940666,
+    "sq_meters": 73,
+    "price": 43000,
+    "longitude": 22.435022, 
+    "latitude": 38.8551926851,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+
+{
+    "id": 16055625,
+    "sq_meters": 48,
+    "price": 40000,
+    "longitude": 22.436609, 
+    "latitude": 38.901031,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": 2024
+},
+
+{
+    "id": 15740322,
+    "sq_meters": 66,
+    "price": 60000,
+    "longitude": 22.433546, 
+    "latitude": 38.899376,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1969,
+    "renovatedIn": null
+},
+
+{
+    "id": 14949339,
+    "sq_meters": 195,
+    "price": 250000,
+    "longitude": 22.431747, 
+    "latitude": 38.900978,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": 2022
+},
+
+{
+    "id": 16120481,
+    "sq_meters": 107,
+    "price": 90000,
+    "longitude": 22.43331, 
+    "latitude": 38.900219,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 15956858,
+    "sq_meters": 73,
+    "price": 43000,
+    "longitude": 22.43354, 
+    "latitude": 38.900051,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+
+{
+    "id": 15786313,
+    "sq_meters": 174,
+    "price": 95000,
+    "longitude": 22.432863, 
+    "latitude": 38.89975,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1965,
+    "renovatedIn": null
+},
+
+{
+    "id": 15953096,
+    "sq_meters": 90,
+    "price": 140000,
+    "longitude": 22.433867, 
+    "latitude": 38.899933,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+
+{
+    "id": 15950291,
+    "sq_meters": 82,
+    "price": 55000,
+    "longitude": 22.435961, 
+    "latitude": 38.900551,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16063417,
+    "sq_meters": 28,
+    "price": 30000,
+    "longitude": 22.434099, 
+    "latitude": 38.899879,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null
+},
+
+{
+    "id": 16004046,
+    "sq_meters": 96,
+    "price": 105000,
+    "longitude": 22.43898, 
+    "latitude": 38.899368,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": 2020
+},
+
+{
+    "id": 16086251,
+    "sq_meters": 224,
+    "price": 160000,
+    "longitude": 22.43898, 
+    "latitude": 38.899368,
+    "rooms": 6,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 3,
+    "constructionYear": 1983,
+    "renovatedIn": 2020
+},
+
+{
+    "id": 15592303,
+    "sq_meters": 110,
+    "price": 160000,
+    "longitude": 22.43873, 
+    "latitude": 38.899384,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1986,
+    "renovatedIn": null
+},
+
+{
+    "id": 15985334,
+    "sq_meters": 100,
+    "price": 89000,
+    "longitude": 22.43573, 
+    "latitude": 38.901112,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": 2019
+},
+
+{
+    "id": 15711405,
+    "sq_meters": 106,
+    "price": 75000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null
+},
+
+{
+    "id": 15940289,
+    "sq_meters": 65,
+    "price": 78000,
+    "longitude": 22.435989, 
+    "latitude": 38.898041,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1973,
+    "renovatedIn": 2019
+},
+
+{
+    "id": 15915185,
+    "sq_meters": 97,
+    "price": 37000,
+    "longitude": 22.432274, 
+    "latitude": 38.897331,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null
+},
+
+{
+    "id": 15384586,
+    "sq_meters": 75,
+    "price": 65000,
+    "longitude": 22.431641, 
+    "latitude": 38.89867,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2020
+},
+
+{
+    "id": 13714477,
+    "sq_meters": 81,
+    "price": 38000,
+    "longitude": 22.429792, 
+    "latitude": 38.898163,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": null
+},
+
+{
+    "id": 15988548,
+    "sq_meters": 280,
+    "price": 500000,
+    "longitude": 22.427231, 
+    "latitude": 38.895611,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2009,
+    "renovatedIn": null
+},
+
+{
+    "id": 15718621,
+    "sq_meters": 28,
+    "price": 28000,
+    "longitude": 22.431507, 
+    "latitude": 38.896461,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null
+},
+
+{
+    "id": 15895686,
+    "sq_meters": 120,
+    "price": 63000,
+    "longitude": 22.430584, 
+    "latitude": 38.896793,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15658747,
+    "sq_meters": 90,
+    "price": 120000,
+    "longitude": 22.43391, 
+    "latitude": 38.89649, 
+    "rooms": 2,
+    "floor": 6,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": 2010
+},
+
+{
+    "id": 15065880,
+    "sq_meters": 110,
+    "price": 44000,
+    "longitude": 22.434763, 
+    "latitude": 38.897514,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+
+{
+    "id": 15633382,
+    "sq_meters": 90,
+    "price": 83000,
+    "longitude": 22.439264, 
+    "latitude": 38.897003,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1982,
+    "renovatedIn": null
+},
+
+{
+    "id": 15922780,
+    "sq_meters": 98,
+    "price": 150000,
+    "longitude": 22.43849, 
+    "latitude": 38.89785,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2023 
+},
+
+
+{
+    "id": 16071736,
+    "sq_meters": 104,
+    "price": 60000,
+    "longitude": 22.438931, 
+    "latitude": 38.89679,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1979,
+    "renovatedIn": null
+},
+
+{
+    "id": 15979820,
+    "sq_meters": 89,
+    "price": 79000,
+    "longitude": 22.43709, 
+    "latitude": 38.898399,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null
+},
+
+{
+    "id": 15633437,
+    "sq_meters": 36,
+    "price": 27000,
+    "longitude": 22.440277, 
+    "latitude": 38.897945,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1982,
+    "renovatedIn": null
+},
+
+{
+    "id": 15808379,
+    "sq_meters": 540,
+    "price": 690000,
+    "longitude": 22.440779, 
+    "latitude": 38.898098,
+    "rooms": 10,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 2002,
+    "renovatedIn": null
+},
+
+{
+    "id": 15829338,
+    "sq_meters": 90,
+    "price": 85000,
+    "longitude": 22.430613, 
+    "latitude": 38.895283,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 15981614,
+    "sq_meters": 104,
+    "price": 80000,
+    "longitude": 22.431299, 
+    "latitude": 38.89423,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 1, 
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15759086,
+    "sq_meters": 95,
+    "price": 95000,
+    "longitude": 22.4363, 
+    "latitude": 38.892639,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1996,
+    "renovatedIn": null
+},
+
+{
+    "id": 15776590,
+    "sq_meters": 102,
+    "price": 125000,
+    "longitude": 22.4331, 
+    "latitude": 38.893631,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2002,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14904419,
+    "sq_meters": 106,
+    "price": 119000,
+    "longitude": 22.426748, 
+    "latitude": 38.889172,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 15698542,
+    "sq_meters": 65,
+    "price": 70000,
+    "longitude": 22.427578, 
+    "latitude": 38.891155,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1963,
+    "renovatedIn": 2023
+},
+
+{
+    "id": 15792174,
+    "sq_meters": 100,
+    "price": 135000,
+    "longitude": 22.438551, 
+    "latitude": 38.892689,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors":3,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null
+},
+
+{
+    "id": 15824229,
+    "sq_meters": 100,
+    "price": 125000,
+    "longitude": 22.440451, 
+    "latitude": 38.893604,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2007,
+    "renovatedIn": null
+},
+
+{
+    "id": 16049361,
+    "sq_meters": 220,
+    "price": 210000,
+    "longitude": 22.447866, 
+    "latitude": 38.900787,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1993,
+    "renovatedIn": null
+},
+
+{
+    "id": 15895664,
+    "sq_meters": 116,
+    "price": 145000,
+    "longitude": 22.443941, 
+    "latitude": 38.900719,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2002,
+    "renovatedIn": null
+},
+
+{
+    "id": 15990282,
+    "sq_meters": 17,
+    "price": 14500,
+    "longitude": 22.440199, 
+    "latitude": 38.900452,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null
+},
+
+{
+    "id": 15721651,
+    "sq_meters": 50,
+    "price": 50000,
+    "longitude": 22.459311, 
+    "latitude": 38.900459,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": null
+},
+
+{
+    "id": 16109270,
+    "sq_meters": 73,
+    "price": 28000,
+    "longitude": 22.45857, 
+    "latitude": 38.900169,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+
+{
+    "id": 16108046,
+    "sq_meters": 134,
+    "price": 62000,
+    "longitude": 22.461691, 
+    "latitude": 38.89922,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2013,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15639549,
+    "sq_meters": 140,
+    "price": 170000,
+    "longitude": 22.369436, 
+    "latitude": 38.899731,
+    "rooms": 4,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": 1996 
+},
+
+{
+    "id": 15975529,
+    "sq_meters": 286,
+    "price": 110000,
+    "longitude": 22.371983, 
+    "latitude": 38.898815,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null
+},
+
+{
+    "id": 15904365,
+    "sq_meters": 122,
+    "price": 95000,
+    "longitude": 22.377108, 
+    "latitude": 38.892563,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": 2008
+},
+
+{
+    "id": 15606330,
+    "sq_meters": 323,
+    "price": 1000000,
+    "longitude": 22.390463, 
+    "latitude": 38.890839,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null
+},
+
+{
+    "id": 15982803,
+    "sq_meters": 189,
+    "price": 380000,
+    "longitude": 22.404028, 
+    "latitude": 38.899826,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+
+{
+    "id": 15694781,
+    "sq_meters": 343,
+    "price": 240000,
+    "longitude": 22.407373, 
+    "latitude": 38.893513,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2010,
+    "renovatedIn": null
+},
+
+{
+    "id": 16060161,
+    "sq_meters": 241,
+    "price": 235000,
+    "longitude": 22.407688, 
+    "latitude": 38.890064,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1997,
+    "renovatedIn": null
+},
+
+{
+    "id": 16113182,
+    "sq_meters": 103,
+    "price": 100000,
+    "longitude": 22.418976, 
+    "latitude": 38.890747,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 15863950,
+    "sq_meters": 103,
+    "price": 90000,
+    "longitude": 22.418976, 
+    "latitude": 38.890747,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 0,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 15877959,
+    "sq_meters": 100,
+    "price": 128000,
+    "longitude": 22.433764, 
+    "latitude": 38.856255,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null
+},
+
+{
+    "id": 14358358,
+    "sq_meters": 292,
+    "price": 215000,
+    "longitude": 22.392839, 
+    "latitude": 38.847046,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": 2016
+},
+
+{
+    "id": 15608959,
+    "sq_meters": 170,
+    "price": 258000,
+    "longitude": 22.38798, 
+    "latitude": 38.84972,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2002,
+    "renovatedIn": null
+},
+
+{
+    "id": 16008212,
+    "sq_meters": 47,
+    "price": 55000,
+    "longitude": 22.440889, 
+    "latitude": 38.886219,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null
+},
+
+{
+    "id": 15848925,
+    "sq_meters": 47,
+    "price": 52000,
+    "longitude": 22.441233, 
+    "latitude": 38.889133,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null
+},
+
+{
+    "id": 16130699,
+    "sq_meters": 124,
+    "price": 140000,
+    "longitude": 22.427273, 
+    "latitude": 38.887386,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1992,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15739783,
+    "sq_meters": 150,
+    "price": 330000,
+    "longitude": 22.431711, 
+    "latitude": 38.901669,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2011,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16157855,
+    "sq_meters": 89,
+    "price": 37000,
+    "longitude": 22.42882, 
+    "latitude": 38.910511,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16207444,
+    "sq_meters": 45,
+    "price": 28000,
+    "longitude": 22.438129, 
+    "latitude": 38.899841,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16138914,
+    "sq_meters": 49,
+    "price": 61000,
+    "longitude": 22.435781, 
+    "latitude": 38.892029,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16205709,
+    "sq_meters": 86,
+    "price": 60000,
+    "longitude": 22.43385152, 
+    "latitude": 38.89940936,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14807517,
+    "sq_meters": 75,
+    "price": 53000,
+    "longitude": 22.41625, 
+    "latitude": 38.893509,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16205139,
+    "sq_meters": 87,
+    "price": 62000,
+    "longitude": 22.433395, 
+    "latitude": 38.900753,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15402799,
+    "sq_meters": 201,
+    "price": 250000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1997,
+    "renovatedIn": 2013 
+},
+
+{
+    "id": 15928120,
+    "sq_meters": 165,
+    "price": 250000,
+    "longitude": 22.4999796, 
+    "latitude": 38.855192,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1922,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16031010,
+    "sq_meters": 102,
+    "price": 58000,
+    "longitude": 22.43185, 
+    "latitude": 38.89822,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16046297,
+    "sq_meters": 70,
+    "price": 38000,
+    "longitude": 22.43438, 
+    "latitude": 38.900246,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16002276,
+    "sq_meters": 48,
+    "price": 34000,
+    "longitude": 22.43185, 
+    "latitude": 38.89822,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 0,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15881649,
+    "sq_meters": 74,
+    "price": 78000,
+    "longitude": 22.431374, 
+    "latitude": 38.905186,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15967373,
+    "sq_meters": 409,
+    "price": 198000,
+    "longitude": 22.430676, 
+    "latitude": 38.905262,
+    "rooms": 7,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15818959,
+    "sq_meters": 55,
+    "price": 35000,
+    "longitude": 22.434122, 
+    "latitude": 38.900513,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15673068,
+    "sq_meters": 110,
+    "price": 113000,
+    "longitude": 22.436613, 
+    "latitude": 38.894184,
+    "rooms": 3,
+    "floor": 4,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": null 
+},
+
+
+{
+    "id": 15267133,
+    "sq_meters": 95,
+    "price": 40000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1979,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15273011,
+    "sq_meters": 229,
+    "price": 160000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 1968,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13672569,
+    "sq_meters": 76,
+    "price": 66000,
+    "longitude": 22.431536, 
+    "latitude": 38.887699,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15467644,
+    "sq_meters": 29,
+    "price": 28000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 0,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13662557,
+    "sq_meters": 133,
+    "price": 112000,
+    "longitude": 22.438814, 
+    "latitude": 38.887951,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1992,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13676942,
+    "sq_meters": 55,
+    "price": 48000,
+    "longitude": 22.432014, 
+    "latitude": 38.887939,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14298801,
+    "sq_meters": 125,
+    "price": 100000,
+    "longitude": 22.45610, 
+    "latitude": 38.90218,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197369,
+    "sq_meters": 165,
+    "price": 195000,
+    "longitude": 22.441351, 
+    "latitude": 38.903149,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197044,
+    "sq_meters": 40,
+    "price": 44000,
+    "longitude": 22.43048, 
+    "latitude": 38.90479,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 7,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197371,
+    "sq_meters": 62,
+    "price": 46000,
+    "longitude": 22.433739, 
+    "latitude": 38.899742,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": 2022 
+},
+
+{
+    "id": 16197376,
+    "sq_meters": 61,
+    "price": 29000,
+    "longitude": 22.433739, 
+    "latitude": 38.899742,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197378,
+    "sq_meters": 88,
+    "price": 90000,
+    "longitude": 22.433739, 
+    "latitude": 38.899742,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2021,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197046,
+    "sq_meters": 67,
+    "price": 41000,
+    "longitude": 22.433739, 
+    "latitude": 38.899742,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12861654,
+    "sq_meters": 148,
+    "price": 132000,
+    "longitude": 22.432739, 
+    "latitude": 38.898742,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197382,
+    "sq_meters": 65,
+    "price": 72000,
+    "longitude": 22.4338, 
+    "latitude": 38.899762,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": 2013 
+},
+
+{
+    "id": 16201618,
+    "sq_meters": 100,
+    "price": 62000,
+    "longitude": 22.441351, 
+    "latitude": 38.903149,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16201620,
+    "sq_meters": 200,
+    "price": 65000,
+    "longitude": 22.387877, 
+    "latitude": 38.930408,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2011,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16201880,
+    "sq_meters": 100,
+    "price": 53000,
+    "longitude": 22.441351, 
+    "latitude": 38.903149,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1967,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16202113,
+    "sq_meters": 125,
+    "price": 57000,
+    "longitude": 22.463034823092425, 
+    "latitude": 38.888857267958265,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16202327,
+    "sq_meters": 98,
+    "price": 112000,
+    "longitude": 22.491948, 
+    "latitude": 38.900610,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1984,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16065057,
+    "sq_meters": 39,
+    "price": 41000,
+    "longitude": 22.43676, 
+    "latitude": 38.89875,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1992,
+    "renovatedIn": 2024 
+},
+
+{
+    "id": 16203197,
+    "sq_meters": 88,
+    "price": 65000,
+    "longitude": 22.445984, 
+    "latitude": 38.895557,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15437907,
+    "sq_meters": 154,
+    "price": 180000,
+    "longitude": 22.44454, 
+    "latitude": 38.904064,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15437932,
+    "sq_meters": 104,
+    "price": 20000,
+    "longitude": 22.440372, 
+    "latitude": 38.857784,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1972,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197098,
+    "sq_meters": 450,
+    "price": 320000,
+    "longitude": 22.421076, 
+    "latitude": 38.887222,
+    "rooms": 8,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197102,
+    "sq_meters": 122,
+    "price": 79000,
+    "longitude": 22.463923, 
+    "latitude": 38.888821,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197066,
+    "sq_meters": 89,
+    "price": 107000,
+    "longitude": 22.545555, 
+    "latitude": 38.798458,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197053,
+    "sq_meters": 189,
+    "price": 280000,
+    "longitude": 22.421076, 
+    "latitude": 38.887222,
+    "rooms": 5,
+    "floor":0 ,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1994,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16196893,
+    "sq_meters": 100,
+    "price": 101000,
+    "longitude": 22.4356, 
+    "latitude": 38.89133,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2012,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15312030,
+    "sq_meters": 97,
+    "price": 50000,
+    "longitude": 22.43939, 
+    "latitude": 38.902828,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16196753,
+    "sq_meters": 82,
+    "price": 75000,
+    "longitude": 22.42724, 
+    "latitude": 38.91316,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197156,
+    "sq_meters": 44,
+    "price": 69000,
+    "longitude": 22.43244, 
+    "latitude": 38.907539,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197478,
+    "sq_meters": 66,
+    "price": 51000,
+    "longitude": 22.433496, 
+    "latitude": 38.895359,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13418813,
+    "sq_meters": 51,
+    "price": 62000,
+    "longitude": 22.43836, 
+    "latitude": 38.892021,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16066180,
+    "sq_meters": 60,
+    "price": 50768,
+    "longitude": 22.43471, 
+    "latitude": 38.913635,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16108161,
+    "sq_meters": 88,
+    "price": 53600,
+    "longitude": 22.436096, 
+    "latitude": 38.896931,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1992,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16188887,
+    "sq_meters": 90,
+    "price": 45000,
+    "longitude": 22.420546, 
+    "latitude": 38.891228,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16189500,
+    "sq_meters": 190,
+    "price": 210000,
+    "longitude": 22.430767, 
+    "latitude": 38.888218,
+    "rooms": 4,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16189716,
+    "sq_meters": 70,
+    "price": 48000,
+    "longitude": 22.479658, 
+    "latitude": 38.849468,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16189776,
+    "sq_meters": 40,
+    "price": 22000,
+    "longitude": 22.432753, 
+    "latitude": 38.893742,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15440684,
+    "sq_meters": 129,
+    "price": 80000,
+    "longitude": 22.44171, 
+    "latitude": 38.90305,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16001252,
+    "sq_meters": 130,
+    "price": 80000,
+    "longitude": 22.442987, 
+    "latitude": 38.904125,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14683022,
+    "sq_meters": 101,
+    "price": 50000,
+    "longitude": 22.445271, 
+    "latitude": 38.902611,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13730066,
+    "sq_meters": 80,
+    "price": 60000,
+    "longitude": 22.414577, 
+    "latitude": 38.89352,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15793639,
+    "sq_meters": 73,
+    "price": 110000,
+    "longitude": 22.42654, 
+    "latitude": 38.91271,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": 2019 
+},
+
+{
+    "id": 15314525,
+    "sq_meters": 93,
+    "price": 85000,
+    "longitude": 22.42942, 
+    "latitude": 38.90823,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16192891,
+    "sq_meters": 199,
+    "price": 53000,
+    "longitude": 22.42639, 
+    "latitude": 38.912861,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15683482,
+    "sq_meters": 80,
+    "price": 78000,
+    "longitude": 22.43926, 
+    "latitude": 38.87656,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1987,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197027,
+    "sq_meters": 62,
+    "price": 35000,
+    "longitude": 22.433739, 
+    "latitude": 38.899742,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16141209,
+    "sq_meters": 144,
+    "price": 90000,
+    "longitude": 22.424253, 
+    "latitude": 38.888714,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15988491,
+    "sq_meters": 178,
+    "price": 75000,
+    "longitude": 22.375563, 
+    "latitude": 38.890026,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1969,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16181836,
+    "sq_meters": 113,
+    "price": 180000,
+    "longitude": 22.43140, 
+    "latitude": 38.90462,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15665011,
+    "sq_meters": 38,
+    "price": 13000,
+    "longitude": 22.43947, 
+    "latitude": 38.89893,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1972,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15494676,
+    "sq_meters": 56,
+    "price": 80000,
+    "longitude": 22.426512, 
+    "latitude": 38.890862,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15023308,
+    "sq_meters": 110,
+    "price": 70000,
+    "longitude": 22.4999796329, 
+    "latitude": 38.8551926851,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14944251,
+    "sq_meters": 200,
+    "price": 130000,
+    "longitude": 22.44006, 
+    "latitude": 38.899361,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14944646,
+    "sq_meters": 130,
+    "price": 65000,
+    "longitude": 22.45656, 
+    "latitude": 38.899731,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15970294,
+    "sq_meters": 73,
+    "price": 43000,
+    "longitude": 22.431921, 
+    "latitude": 38.905602,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15592782,
+    "sq_meters": 197,
+    "price": 98000,
+    "longitude": 22.371141, 
+    "latitude": 38.895802,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15619949,
+    "sq_meters": 111,
+    "price": 96000,
+    "longitude": 22.371185, 
+    "latitude": 38.895638,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1981,
+    "renovatedIn": 2008 
+},
+
+{
+    "id": 16177383,
+    "sq_meters": 40,
+    "price": 35000,
+    "longitude": 22.431208, 
+    "latitude": 38.899651,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1989,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16034824,
+    "sq_meters": 82,
+    "price": 50000,
+    "longitude":22.45756 , 
+    "latitude": 38.90181,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16158311,
+    "sq_meters": 75,
+    "price": 148000,
+    "longitude": 22.445299, 
+    "latitude": 38.902191,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2024,
+    "renovatedIn": null 
+},
+
+{
+    "id": 161662401,
+    "sq_meters": 65,
+    "price": 57000,
+    "longitude": 22.435719, 
+    "latitude": 38.898567,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15934506,
+    "sq_meters": 150,
+    "price": 290000,
+    "longitude": 22.429859, 
+    "latitude": 38.905319,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 1057510,
+    "sq_meters": 71,
+    "price": 80000,
+    "longitude": 22.430513, 
+    "latitude": 38.901154,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": 2023 
+},
+
+{
+    "id": 15683310,
+    "sq_meters": 68,
+    "price": 28000,
+    "longitude": 22.42993, 
+    "latitude": 38.901779,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16142660,
+    "sq_meters": 75,
+    "price": 39000,
+    "longitude": 22.432259, 
+    "latitude": 38.904259,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15953565,
+    "sq_meters": 36,
+    "price": 58000,
+    "longitude": 22.440809, 
+    "latitude": 38.897171,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15865888,
+    "sq_meters": 243,
+    "price": 63493,
+    "longitude": 22.457415, 
+    "latitude": 38.900108,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15972173,
+    "sq_meters": 37,
+    "price": 38000,
+    "longitude": 22.430208, 
+    "latitude": 38.899502,
+    "rooms": 1,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1979,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13355562,
+    "sq_meters": 170,
+    "price": 250000,
+    "longitude": 22.435579, 
+    "latitude": 38.901878,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1950,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15975415,
+    "sq_meters": 97,
+    "price": 60000,
+    "longitude": 22.44392, 
+    "latitude": 38.895908,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15987795,
+    "sq_meters": 48,
+    "price": 17449,
+    "longitude": 22.426985, 
+    "latitude": 38.88612,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15987792,
+    "sq_meters": 59,
+    "price": 21000,
+    "longitude": 22.431332, 
+    "latitude": 38.906757,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16010494,
+    "sq_meters": 240,
+    "price": 250000,
+    "longitude": 22.438095, 
+    "latitude": 38.901333,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16010607,
+    "sq_meters": 70,
+    "price": 26000,
+    "longitude": 22.43257, 
+    "latitude": 38.897827,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15359065,
+    "sq_meters": 94,
+    "price": 95000,
+    "longitude": 22.431246, 
+    "latitude": 38.90089,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1971,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15177190,
+    "sq_meters": 56,
+    "price": 38000,
+    "longitude": 22.423491, 
+    "latitude": 38.888771,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15988685,
+    "sq_meters": 75,
+    "price": 47000,
+    "longitude": 22.430111, 
+    "latitude": 38.8881,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16086728,
+    "sq_meters": 29,
+    "price": 32000,
+    "longitude": 22.41518, 
+    "latitude": 38.892342,
+    "rooms": 0,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14746146,
+    "sq_meters": 60,
+    "price": 48000,
+    "longitude": 22.429832, 
+    "latitude": 38.907356,
+    "rooms": 1,
+    "floor": 4,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1982,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15721470,
+    "sq_meters": 107,
+    "price": 90000,
+    "longitude": 22.43331, 
+    "latitude": 38.900219,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": 2023 
+},
+
+{
+    "id": 13602264,
+    "sq_meters": 81,
+    "price": 38000,
+    "longitude": 22.433809, 
+    "latitude": 38.897881,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15932572,
+    "sq_meters": 100,
+    "price": 77000,
+    "longitude": 22.432537, 
+    "latitude": 38.899853,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1982,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16136430,
+    "sq_meters": 80,
+    "price": 39000,
+    "longitude": 22.433395, 
+    "latitude": 38.905228,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 1,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16142670,
+    "sq_meters": 70,
+    "price": 25000,
+    "longitude": 22.43257, 
+    "latitude": 38.897854,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15614672,
+    "sq_meters": 102,
+    "price": 75000,
+    "longitude": 22.434366, 
+    "latitude": 38.897964,
+    "rooms": 3,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15692164,
+    "sq_meters": 180,
+    "price": 85000,
+    "longitude": 22.427269, 
+    "latitude": 38.90144,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1992,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15818687,
+    "sq_meters": 73,
+    "price": 45000,
+    "longitude": 22.434208, 
+    "latitude": 38.900379,
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16122876,
+    "sq_meters": 206,
+    "price": 230000,
+    "longitude": 22.429609, 
+    "latitude": 38.90559,
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15513639,
+    "sq_meters": 75,
+    "price": 65000,
+    "longitude": 22.432529, 
+    "latitude": 38.91312,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14031804,
+    "sq_meters": 151,
+    "price": 110000,
+    "longitude": 22.423988, 
+    "latitude": 38.830883,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15526658,
+    "sq_meters": 40,
+    "price": 57000,
+    "longitude": 22.442387, 
+    "latitude": 38.900509,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13320439,
+    "sq_meters": 75,
+    "price": 27000,
+    "longitude": 22.430769, 
+    "latitude": 38.907269,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14500921,
+    "sq_meters": 50,
+    "price": 34000,
+    "longitude": 22.434036, 
+    "latitude": 38.901314,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15646873,
+    "sq_meters": 144,
+    "price": 220000,
+    "longitude": 22.435112, 
+    "latitude": 38.890141,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2006,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15542072,
+    "sq_meters": 64,
+    "price": 55000,
+    "longitude": 22.43168, 
+    "latitude": 38.89911,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1991,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13051047,
+    "sq_meters": 65,
+    "price": 34000,
+    "longitude": 22.384647, 
+    "latitude": 38.93045,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1974,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15742507,
+    "sq_meters": 62,
+    "price": 52000,
+    "longitude": 22.429876, 
+    "latitude": 38.905483,
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14632439,
+    "sq_meters": 132,
+    "price": 450000,
+    "longitude": 22.42964, 
+    "latitude": 38.905281,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1977,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15745446,
+    "sq_meters": 82,
+    "price": 55000,
+    "longitude": 22.42993, 
+    "latitude": 38.894588,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15746206,
+    "sq_meters": 120,
+    "price": 190000,
+    "longitude": 22.42659, 
+    "latitude": 38.920315,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1999,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15468483,
+    "sq_meters": 126,
+    "price": 175000,
+    "longitude": 22.428858, 
+    "latitude": 38.921257,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15755061,
+    "sq_meters": 67,
+    "price": 35730,
+    "longitude": 22.422733, 
+    "latitude": 38.891319,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1991,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15775800,
+    "sq_meters": 98,
+    "price": 45492,
+    "longitude": 22.437386, 
+    "latitude": 38.887936,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1991,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15775836,
+    "sq_meters": 271,
+    "price": 137000,
+    "longitude": 22.368172, 
+    "latitude": 38.903893,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1973,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14500821,
+    "sq_meters": 43,
+    "price": 40000,
+    "longitude": 22.43395, 
+    "latitude": 38.900448,
+    "rooms": 1,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15785610,
+    "sq_meters": 110,
+    "price": 145000,
+    "longitude": 22.425339, 
+    "latitude": 38.888233,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2010,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15786090,
+    "sq_meters": 101,
+    "price": 185000,
+    "longitude": 22.440571, 
+    "latitude": 38.89444,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11649413,
+    "sq_meters": 82,
+    "price": 55000,
+    "longitude": 22.42993, 
+    "latitude": 38.894588,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15803887,
+    "sq_meters": 250,
+    "price": 150000,
+    "longitude": 22.427111, 
+    "latitude": 38.908981,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 4,
+    "levels": 4,
+    "constructionYear": 1987,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14374016,
+    "sq_meters": 145,
+    "price": 240000,
+    "longitude": 22.409506, 
+    "latitude": 38.868645,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1997,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15830323,
+    "sq_meters": 343,
+    "price": 252695,
+    "longitude": 22.4023, 
+    "latitude": 38.8964,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15830345,
+    "sq_meters": 398,
+    "price": 120000,
+    "longitude": 22.43262,
+    "latitude": 38.90323,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1940,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15832747,
+    "sq_meters": 60,
+    "price": 70000,
+    "longitude": 22.44269, 
+    "latitude": 38.900539,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1997,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13449236,
+    "sq_meters": 202,
+    "price": 220000,
+    "longitude": 22.465126, 
+    "latitude": 38.888,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1991,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15836924,
+    "sq_meters": 520,
+    "price": 170000,
+    "longitude": 22.426729, 
+    "latitude": 38.918892,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15539891,
+    "sq_meters": 150,
+    "price": 120000,
+    "longitude": 22.438728, 
+    "latitude": 38.899792,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1978,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13952748,
+    "sq_meters": 59,
+    "price": 85000,
+    "longitude": 22.437469, 
+    "latitude": 38.901081,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1978,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15908793,
+    "sq_meters": 89,
+    "price": 135000,
+    "longitude": 22.434319, 
+    "latitude": 38.897213,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15919502,
+    "sq_meters": 48,
+    "price": 32000,
+    "longitude": 22.439659, 
+    "latitude": 38.894348,
+    "rooms": 1,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15515403,
+    "sq_meters": 89,
+    "price": 105000,
+    "longitude": 22.441099, 
+    "latitude": 38.898331,
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 2009,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11860743,
+    "sq_meters": 50,
+    "price": 70000,
+    "longitude": 22.43293, 
+    "latitude": 38.897362,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15929647,
+    "sq_meters": 65,
+    "price": 90000,
+    "longitude": 22.43293, 
+    "latitude": 38.897362,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15864312,
+    "sq_meters": 55,
+    "price": 39000,
+    "longitude": 22.420202, 
+    "latitude": 38.923939,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15939429,
+    "sq_meters": 62,
+    "price": 35000,
+    "longitude": 22.435085, 
+    "latitude": 38.901356,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 5,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15950267,
+    "sq_meters": 35,
+    "price": 10200,
+    "longitude": 22.438969, 
+    "latitude": 38.89003,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15950269,
+    "sq_meters": 87,
+    "price": 30000,
+    "longitude": 22.479683, 
+    "latitude": 38.850254,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12506894,
+    "sq_meters": 100,
+    "price": 31000,
+    "longitude": 22.43248, 
+    "latitude": 38.888271,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1983,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12349091,
+    "sq_meters": 42,
+    "price": 37000,
+    "longitude": 22.427719, 
+    "latitude": 38.892578,
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14527687,
+    "sq_meters": 200,
+    "price": 300000,
+    "longitude": 22.399508, 
+    "latitude": 38.844036,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 1596394,
+    "sq_meters": 82,
+    "price": 97000,
+    "longitude": 22.442253, 
+    "latitude": 38.894875,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1988,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14476304,
+    "sq_meters": 170,
+    "price": 180000,
+    "longitude": 22.434887, 
+    "latitude": 38.898014,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1971,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15106520,
+    "sq_meters": 260,
+    "price": 73000,
+    "longitude": 22.437941, 
+    "latitude":38.898048,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13675687,
+    "sq_meters": 194,
+    "price": 95000,
+    "longitude": 22.545792, 
+    "latitude": 38.797077,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13675230,
+    "sq_meters": 228,
+    "price": 165000,
+    "longitude": 22.391211, 
+    "latitude": 38.929569,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1998,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11489378,
+    "sq_meters": 69,
+    "price": 75000,
+    "longitude": 22.430771, 
+    "latitude": 38.902111,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1975,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14306218,
+    "sq_meters": 384,
+    "price": 180000,
+    "longitude": 22.37163, 
+    "latitude": 38.90181,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2008,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16210745,
+    "sq_meters": 215,
+    "price": 105600,
+    "longitude": 22.467859, 
+    "latitude": 38.888287,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1988,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15110020,
+    "sq_meters": 140,
+    "price": 60000,
+    "longitude": 22.197693, 
+    "latitude": 38.881504,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1997,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15197176,
+    "sq_meters": 133,
+    "price": 122000,
+    "longitude": 22.24094, 
+    "latitude": 38.871769,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16067086,
+    "sq_meters": 200,
+    "price": 55000,
+    "longitude": 22.347326, 
+    "latitude": 38.869434,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16170686,
+    "sq_meters": 191,
+    "price": 114000,
+    "longitude": 22.265219, 
+    "latitude": 38.903374,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14939487,
+    "sq_meters": 281,
+    "price": 71000,
+    "longitude": 22.316299, 
+    "latitude": 38.883881,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1981,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15437972,
+    "sq_meters": 74,
+    "price": 38000,
+    "longitude": 22.343506, 
+    "latitude": 38.871181,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15726501,
+    "sq_meters": 60,
+    "price": 27000,
+    "longitude": 22.314798, 
+    "latitude": 38.882107,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1960,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12758204,
+    "sq_meters": 150,
+    "price": 80000,
+    "longitude": 22.348251, 
+    "latitude": 38.86972,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": 2021 
+},
+
+{
+    "id": 13423179,
+    "sq_meters": 53,
+    "price": 130000,
+    "longitude": 22.156031, 
+    "latitude": 38.752716,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1992,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15729675,
+    "sq_meters": 92,
+    "price": 80000,
+    "longitude": 22.31225, 
+    "latitude": 38.884449,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1993,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15364421,
+    "sq_meters": 160,
+    "price": 115000,
+    "longitude": 22.349115, 
+    "latitude": 38.868126,
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13519618,
+    "sq_meters": 126,
+    "price": 20000,
+    "longitude": 22.241365, 
+    "latitude": 38.871624,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1983,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11366213,
+    "sq_meters": 103,
+    "price": 160000,
+    "longitude": 22.239824, 
+    "latitude": 38.871586,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11417680,
+    "sq_meters": 194,
+    "price": 370000,
+    "longitude": 22.277946, 
+    "latitude": 38.893234,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14863106,
+    "sq_meters": 98,
+    "price": 85000,
+    "longitude": 22.28746, 
+    "latitude": 38.9137,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1964,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15177966,
+    "sq_meters": 116,
+    "price": 20000,
+    "longitude": 22.29277, 
+    "latitude": 38.91938,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1940,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12897686,
+    "sq_meters": 115,
+    "price": 85000,
+    "longitude": 22.308426, 
+    "latitude": 38.916485,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1988,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16010543,
+    "sq_meters": 125,
+    "price": 150000,
+    "longitude": 22.29871, 
+    "latitude": 38.913601,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2014,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14489641,
+    "sq_meters": 75,
+    "price": 25000,
+    "longitude": 22.264812, 
+    "latitude": 38.999565,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": 2005 
+},
+
+{
+    "id": 15260606,
+    "sq_meters": 98,
+    "price": 40000,
+    "longitude": 22.307871, 
+    "latitude": 38.95546,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1981,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15427971,
+    "sq_meters": 175,
+    "price": 73000,
+    "longitude": 22.307989, 
+    "latitude": 38.955448,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1996,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16201890,
+    "sq_meters": 160,
+    "price": 132000,
+    "longitude": 22.333776, 
+    "latitude": 38.999786,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 9659245,
+    "sq_meters": 100,
+    "price": 90000,
+    "longitude": 22.448259, 
+    "latitude": 38.82692,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1950,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15942715,
+    "sq_meters": 136,
+    "price": 155000,
+    "longitude": 22.408913, 
+    "latitude": 38.827106,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12812635,
+    "sq_meters": 85,
+    "price": 100000,
+    "longitude": 22.414137, 
+    "latitude": 38.792076,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12848994,
+    "sq_meters": 90,
+    "price": 90000,
+    "longitude": 22.411263, 
+    "latitude": 38.824314,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14119397,
+    "sq_meters": 175,
+    "price": 75000,
+    "longitude": 22.447996, 
+    "latitude": 38.827614,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15649177,
+    "sq_meters": 110,
+    "price": 45000,
+    "longitude": 22.431595, 
+    "latitude": 38.827377,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11827555,
+    "sq_meters": 75,
+    "price": 25000,
+    "longitude": 22.426481, 
+    "latitude": 38.89994,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 13238950,
+    "sq_meters": 150,
+    "price": 90000,
+    "longitude": 22.445799, 
+    "latitude": 38.805004,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1960,
+    "renovatedIn": 2010 
+},
+
+{
+    "id": 12754510,
+    "sq_meters": 75,
+    "price": 55000,
+    "longitude": 22.414459, 
+    "latitude": 38.809399,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": 1985 
+},
+
+{
+    "id": 14073180,
+    "sq_meters": 360,
+    "price": 500000,
+    "longitude": 22.405066, 
+    "latitude": 38.742764,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1991,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15505755,
+    "sq_meters": 63,
+    "price": 30000,
+    "longitude": 22.414129, 
+    "latitude": 38.831127,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 14698696,
+    "sq_meters": 78,
+    "price": 140000,
+    "longitude": 22.34503, 
+    "latitude": 38.734249,
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1955,
+    "renovatedIn": 2012 
+},
+
+{
+    "id": 15110675,
+    "sq_meters": 125,
+    "price": 350000,
+    "longitude": 22.33857, 
+    "latitude": 38.741222,
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 12032652,
+    "sq_meters": 420,
+    "price": 1800000,
+    "longitude": 22.346634, 
+    "latitude": 38.737389,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2021,
+    "renovatedIn": null 
+},
+
+{
+    "id": 11111111,
+    "sq_meters": 200,
+    "price": 160000,
+    "longitude": 22.337562, 
+    "latitude": 38.740391,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 15686045,
+    "sq_meters": 160,
+    "price": 95000,
+    "longitude": 22.33741, 
+    "latitude": 38.74044,
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1930,
+    "renovatedIn": null 
+},
+
+{
+    "id": 22222222,
+    "sq_meters": 149,
+    "price": 105000,
+    "longitude": 22.30450, 
+    "latitude": 38.85955, 
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1987,
+    "renovatedIn": null 
+},
+
+{
+    "id": 33333333,
+    "sq_meters": 69,
+    "price": 55000,
+    "longitude": 22.35076, 
+    "latitude": 39.00073, 
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 44444444,
+    "sq_meters": 116,
+    "price": 20000,
+    "longitude": 22.3075935, 
+    "latitude": 38.9545318,
+    "rooms": 4,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1940,
+    "renovatedIn": null 
+},
+
+{
+    "id": 40771034,
+    "sq_meters": 365,
+    "price": 358000,
+    "longitude": 22.2764219,
+    "latitude": 38.893284,
+    "rooms": 5,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2005,
+    "renovatedIn": null 
+},
+
+{
+    "id": 38124704,
+    "sq_meters": 140,
+    "price": 120000,
+    "longitude": 22.240435,
+    "latitude": 38.871635,
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 40651616,
+    "sq_meters": 117,
+    "price": 50000,
+    "longitude": 22.17815,
+    "latitude": 38.86063, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1966,
+    "renovatedIn": 1983 
+},
+
+{
+    "id": 41025101,
+    "sq_meters": 76,
+    "price": 120000,
+    "longitude": 22.40514,
+    "latitude": 38.82521, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1955,
+    "renovatedIn": null 
+},
+
+{
+    "id": 40941164,
+    "sq_meters": 55,
+    "price": 40000,
+    "longitude": 22.36741,
+    "latitude": 38.83841,  
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1950,
+    "renovatedIn": null 
+},
+
+{
+    "id": 40976682,
+    "sq_meters": 80,
+    "price": 145000,
+    "longitude": 22.346942425,
+    "latitude": 38.74288765, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2018,
+    "renovatedIn": null 
+},
+
+{
+    "id": 41063345,
+    "sq_meters": 106,
+    "price": 55000,
+    "longitude": 22.4782525,
+    "latitude": 38.8500883, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1965,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16251374,
+    "sq_meters": 105,
+    "price": 127000,
+    "longitude": 22.427458,
+    "latitude": 38.915508, 
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 4,
+    "levels": 2,
+    "constructionYear": 2004,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16248901,
+    "sq_meters": 55,
+    "price": 45000,
+    "longitude": 22.431629,
+    "latitude": 38.899467, 
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16246478,
+    "sq_meters": 100,
+    "price": 77000,
+    "longitude": 22.43107,
+    "latitude": 38.89782, 
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16232637,
+    "sq_meters": 75,
+    "price": 85000,
+    "longitude": 22.431892,
+    "latitude": 38.899517, 
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16233129,
+    "sq_meters": 102,
+    "price": 125500,
+    "longitude": 22.421920,
+    "latitude": 38.923132, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16234099,
+    "sq_meters": 75,
+    "price": 90000,
+    "longitude": 22.428572,
+    "latitude": 38.905865,
+    "rooms": 2,
+    "floor": 3,
+    "totalFloors": 4,
+    "levels": 1,
+    "constructionYear": 1986,
+    "renovatedIn": 2024 
+},
+
+{
+    "id": 14477061,
+    "sq_meters": 225,
+    "price": 180000,
+    "longitude": 22.404577,
+    "latitude": 38.893272, 
+    "rooms": 0,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 3,
+    "constructionYear": 2023,
+    "renovatedIn": null 
+},
+
+{
+    "id": 2242551,
+    "sq_meters": 170,
+    "price": 280000,
+    "longitude": 22.441891,
+    "latitude": 38.89872, 
+    "rooms": 3,
+    "floor": 7,
+    "totalFloors": 9,
+    "levels": 2,
+    "constructionYear": 2013,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236155,
+    "sq_meters": 62,
+    "price": 41600,
+    "longitude": 22.42993,
+    "latitude": 38.905334, 
+    "rooms": 1,
+    "floor": 0,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 2008,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236171,
+    "sq_meters": 260,
+    "price": 92950,
+    "longitude": 22.40991,
+    "latitude": 38.892067, 
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 1998,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236179,
+    "sq_meters": 108,
+    "price": 69407,
+    "longitude": 22.408054,
+    "latitude": 38.889088, 
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1995,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236188,
+    "sq_meters": 50,
+    "price": 32000,
+    "longitude": 22.429234,
+    "latitude": 38.895493, 
+    "rooms": 1,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236799,
+    "sq_meters": 89,
+    "price": 87000,
+    "longitude": 22.435540,
+    "latitude": 38.891693, 
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236699,
+    "sq_meters": 77,
+    "price": 70500,
+    "longitude": 22.420207,
+    "latitude": 38.927335, 
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16236189,
+    "sq_meters": 91,
+    "price": 62000,
+    "longitude": 22.429222,
+    "latitude": 38.895473, 
+    "rooms": 3,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197065,
+    "sq_meters": 84,
+    "price": 105000,
+    "longitude": 22.545555,
+    "latitude": 38.798458, 
+    "rooms": 2,
+    "floor": 5,
+    "totalFloors": 6,
+    "levels": 1,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16197058,
+    "sq_meters": 140,
+    "price": 79000,
+    "longitude": 22.433739,
+    "latitude": 38.899742, 
+    "rooms": 3,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1969,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16219568,
+    "sq_meters": 90,
+    "price": 38000,
+    "longitude": 22.436691,
+    "latitude": 38.891418, 
+    "rooms": 2,
+    "floor": 0,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": null,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16225905,
+    "sq_meters": 75,
+    "price": 53000,
+    "longitude": 22.43932,
+    "latitude": 38.900188, 
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1981,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16210614,
+    "sq_meters": 103,
+    "price": 40000,
+    "longitude": 22.429296,
+    "latitude": 38.903088, 
+    "rooms": 4,
+    "floor": 1,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1970,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16215242,
+    "sq_meters": 30,
+    "price": 18000,
+    "longitude": 22.427002,
+    "latitude": 38.890568, 
+    "rooms": 1,
+    "floor": 2,
+    "totalFloors": 1,
+    "levels": 1,
+    "constructionYear": 1990,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16310681,
+    "sq_meters": 120,
+    "price": 190000,
+    "longitude": 22.426905,
+    "latitude": 38.921764, 
+    "rooms": 4,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 2000,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16287386,
+    "sq_meters": 86,
+    "price": 60000,
+    "longitude": 22.431217,
+    "latitude": 38.903, 
+    "rooms": 2,
+    "floor": 1,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1966,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16281711,
+    "sq_meters": 97,
+    "price": 70000,
+    "longitude": 22.442881,
+    "latitude": 38.895512, 
+    "rooms": 2,
+    "floor": 2,
+    "totalFloors": 3,
+    "levels": 1,
+    "constructionYear": 1980,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16283632,
+    "sq_meters": 90,
+    "price": 45000,
+    "longitude":22.420633,
+    "latitude": 38.891281, 
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 1,
+    "constructionYear": 1985,
+    "renovatedIn": null 
+},
+
+{
+    "id": 16306928,
+    "sq_meters": 470,
+    "price": 490000,
+    "longitude": 22.387775,
+    "latitude": 38.930904, 
+    "rooms": 3,
+    "floor": 0,
+    "totalFloors": 2,
+    "levels": 2,
+    "constructionYear": 2007,
+    "renovatedIn": null 
+}
+]
+
+
