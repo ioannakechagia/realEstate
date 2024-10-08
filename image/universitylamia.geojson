@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "universitylamia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "amenity": "university", "name": "Πανεπιστημιούπολη Θετικών Επιστημών Πανεπιστήμιου Θεσσαλίας (Λαμία) (Πρώην ΤΕΙ)", "xcoord": 22.437631523099753, "ycoord": 38.875148566591896 }, "geometry": { "type": "Point", "coordinates": [ 22.437631523099753, 38.875148566591896 ] } },
+{ "type": "Feature", "properties": { "amenity": "university", "name": "Πανεπιστήμιο Θεσσαλίας", "xcoord": 22.428074710625015, "ycoord": 38.912373726075387 }, "geometry": { "type": "Point", "coordinates": [ 22.428074710625015, 38.912373726075387 ] } }
+]
+}
