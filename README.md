@@ -12,6 +12,7 @@ This project investigates various factors influencing real estate prices in two 
 
 
 **Data**
+
 The data includes:
 
 1.**Property Listings:** Information such as location, asking price, square footage, year of construction, and number of rooms, collected from online real estate listings (March-August 2024).
@@ -21,9 +22,11 @@ The data includes:
 3.**Schools and Infrastructure:** Details about schools, ongoing or completed infrastructure projects, and their influence on property values and the quality of life in the area.
 
 **Mapping & Analysis**
+
 The analysis uses Geographic Information Systems (GIS) to visualize the spatial distribution of property prices and key influencing factors, including cultural sites, schools, and infrastructure projects. An interactive map was created to show how these factors impact real estate values.
 
 **Technologies**
+
 *Javascript
 *GIS (Geographic Information Systems)
 *Data Visualization
