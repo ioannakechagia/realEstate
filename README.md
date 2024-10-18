@@ -1,2 +1,2 @@
 https://observablehq.com/@lamia/map
-![Uploading Screenshot 2024-10-18 at 21.14.42.png…]()
+<img width="956" alt="map" src="https://github.com/user-attachments/assets/3487a1ce-5f0f-440c-aecc-4a747779e720">
