@@ -36,7 +36,9 @@ The analysis uses Geographic Information Systems (GIS) to visualize the spatial 
 **Technologies**
 
 *Javascript
+
 *GIS (Geographic Information Systems)
+
 *Data Visualization
 
 ---
