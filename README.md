@@ -1,4 +1,4 @@
-**Analysis of Factors Affecting Real Estate Prices in Greece**
+**ANALYSIS OF FACTORS AFFECTING REAL ESTATE PRICES IN GREECE**
 
 https://observablehq.com/@lamia/map
 
