@@ -11,7 +11,7 @@ https://observablehq.com/@lamia/map
 This project investigates various factors influencing real estate prices in two of the most affordable large cities in Greece: Lamia and Thessaloniki. These factors include proximity to cultural heritage sites, schools, infrastructure projects, and other elements that shape the property market. By analyzing data from online property listings, historical landmarks, educational institutions, and infrastructure developments, this study provides a comprehensive understanding of the real estate landscape in these regions.
 
 
-
+---
 
 **Data**
 
@@ -23,7 +23,7 @@ The data includes:
 
 3.**Schools and Infrastructure:** Details about schools, ongoing or completed infrastructure projects, and their influence on property values and the quality of life in the area.
 
-
+---
 
 **Mapping & Analysis**
 
