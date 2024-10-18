@@ -1,10 +1,12 @@
 **ANALYSIS OF FACTORS AFFECTING REAL ESTATE PRICES IN GREECE**
+---
 
 https://observablehq.com/@lamia/map
 
 
 <img width="956" alt="map" src="https://github.com/user-attachments/assets/fd64c135-2090-49c4-aedf-5741d34c8143">
 
+---
 
 **Description**
 
@@ -29,7 +31,7 @@ The data includes:
 
 The analysis uses Geographic Information Systems (GIS) to visualize the spatial distribution of property prices and key influencing factors, including cultural sites, schools, and infrastructure projects. An interactive map was created to show how these factors impact real estate values.
 
-
+---
 
 **Technologies**
 
@@ -37,7 +39,7 @@ The analysis uses Geographic Information Systems (GIS) to visualize the spatial 
 *GIS (Geographic Information Systems)
 *Data Visualization
 
-
+---
 
 **Usage**
 This project is useful for real estate professionals, investors, urban planners, and researchers who want to analyze how various factors impact real estate prices and market trends.
