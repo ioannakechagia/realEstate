@@ -13,8 +13,11 @@ This project investigates various factors influencing real estate prices in two 
 
 **Data**
 The data includes:
+
 1.**Property Listings:** Information such as location, asking price, square footage, year of construction, and number of rooms, collected from online real estate listings (March-August 2024).
+
 2.**Cultural Heritage and Landmarks:** Locations and historical significance of sites such as Lamia Castle, the Archaeological Museum, and churches in the area.
+
 3.**Schools and Infrastructure:** Details about schools, ongoing or completed infrastructure projects, and their influence on property values and the quality of life in the area.
 
 **Mapping & Analysis**
